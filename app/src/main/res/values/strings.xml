@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">News App Android</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="btn_next_tv">NEXT</string>
+    <string name="btn_back_tv">BACK</string>
+
+    <string name="Welcome_to">Welcome to</string>
+    <string name="tv_intro_2">NewApps by Tien Doan</string>
+    <string name="tv_intro_3">Ready to</string>
+    <string name="tv_intro_4">Update all the hot news around the world</string>
+    <string name="tv_intro_5">Provide</string>
+    <string name="tv_intro_6">Helpful information</string>
+    <string name="done">DONE</string>
+    <string name="don_have_account">Don\'t have any account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+
+    <string name="default_web_client_id">781509055180-tbqhhagqievue7h3hocp99tbld5ahcma.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
